@@ -19,7 +19,7 @@ namespace MaxProductOfThree
 
                 return product;
             }
-            Console.WriteLine(solution(new int[] { -10, -2, -4 }));
+            Console.WriteLine(solution(new int[] { -5, 5, -5, 4 }));
         }
     }
 }
